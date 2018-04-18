@@ -1,0 +1,14 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\MigrationDz.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\MigrationDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\MigrationDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\EntityFramework.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\EntityFramework.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\obj\Debug\MigrationDz.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\obj\Debug\MigrationDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\obj\Debug\MigrationDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\obj\Debug\MigrationDz.Migrations.InitialCreate.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\obj\Debug\MigrationDz.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\MigrationDz\MigrationDz\obj\Debug\MigrationDz.Migrations.AddAgeAndNickname.resources
